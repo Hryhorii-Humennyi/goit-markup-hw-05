@@ -394,9 +394,7 @@ img {
   border: 1px solid var(--team-icon-color);
   border-radius: 4px;
   color: var(--team-icon-color);
-
   white-space: nowrap;
-  flex-basis: content;
 }
 .clients-link:hover,
 .clients-link:focus {
